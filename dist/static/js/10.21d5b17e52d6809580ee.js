@@ -1,0 +1,2 @@
+webpackJsonp([10],{arW5:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("p",[this._v("DramSetting")])},staticRenderFns:[]},l=n("VU/8")(null,r,!1,null,null,null);t.default=l.exports}});
+//# sourceMappingURL=10.21d5b17e52d6809580ee.js.map
